@@ -149,8 +149,6 @@ function draw() {
       //mouth
       arc(100, 220, 20, 10, 0, PI);
     }
-
-    print(shirt);
   }
 
   function mousePressed() {
